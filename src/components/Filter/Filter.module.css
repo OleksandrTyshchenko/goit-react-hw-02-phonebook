@@ -1,0 +1,12 @@
+.label {
+  display: flex;
+  justify-content: space-between;
+
+  width: 350px;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.input {
+  height: 20px;
+}

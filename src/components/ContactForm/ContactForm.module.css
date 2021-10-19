@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 350px;
+}
+
+.label {
+  display: flex;
+
+  justify-content: space-between;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 250px;
+  height: 20px;
+}
+
+.button {
+  width: 100px;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
